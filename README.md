@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaishnavi Bhute !
 
-<!--
-**VaishnaviGithubCse/VaishnaviGithubCse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Java Enthusiast | Problem Solver | CS Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a full stack developer with a strong focus on Java and modern web technologies. I thrive on building high-performance applications, and I’m always excited to take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+Here's a breakdown of the technologies I work with:
+
+### **Backend:**
+- **Java** (Spring Boot, JAX-RS)
+- **Node.js** (Express)
+- **TypeScript**
+- **RESTful APIs**
+- **LDAP** (Authentication & Authorization)
+
+### **Frontend:**
+- **Angular** (Building modern SPAs)
+- **HTML, CSS** (Responsive, mobile-first designs)
+
+### **Database:**
+- **MySQL** (Relational DBs, complex queries)
+
+### **DevOps & Cloud:**
+- **Docker** (Containerization)
+
+## 🛠️ Current Projects
+
+I'm currently working on a couple of exciting projects that showcase my skills with full stack development:
+
+- [**Project 1**](#): A Java backend with Spring Boot & OracleDB, integrated with Angular frontend.
+- [**Project 2**](#): A Java backend with Spring Boot & OracleDB, integrated with Angular frontend with extensive use of HighCharts. also LDAP for Authentication and 
+- [**Project 3**](#): Currently working on Building E2E Inventory managemet Software. [**iNVcore**](https://github.com/iNVcore/iNVcore)
+
+
+## 📈 GitHub Stats
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGithubCse&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+Let’s connect! Feel free to reach out if you want to collaborate, share ideas, or discuss tech.
