@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Vaishnavi Bhute !
+![Studying GIF](https://github.com/VaishnaviGithubCse/VaishnaviGithubCse/blob/main/Notion%20Cover%20Aesthetic%20Gif%20Studying.gif)
+
 
 ### Full Stack Developer | Java Enthusiast | Problem Solver | CS Engineer
 
