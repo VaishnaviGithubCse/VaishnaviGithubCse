@@ -40,6 +40,11 @@ I'm currently working on a couple of exciting projects that showcase my skills w
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviGithubCse&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaishnaviGithubCse&show_icons=true&locale=en" alt="VaishnaviGithubCse Stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviGithubCse&" alt="VaishnaviGithubCse Streak" width="48%" />
+</p>
+
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
