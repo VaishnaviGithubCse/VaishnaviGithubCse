@@ -27,6 +27,9 @@ Here's a breakdown of the technologies I work with:
 ### **DevOps & Cloud:**
 - **Docker** (Containerization)
 
+### **Learning**
+- **Redis** (In-Memory Database)
+
 ## 🛠️ Current Projects
 
 I'm currently working on a couple of exciting projects that showcase my skills with full stack development:
